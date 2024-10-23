@@ -30,10 +30,10 @@ pip install requests
 Commands:
 
 ```bash
-git clone https://github.com/Arulprakash111/Lets-Find-XSS.git
-cd Lets-Find-XSS
+git clone https://github.com/ArulprakashR001/Lets_Find_xSS.git
+cd Lets_Find_xSS
 ls
-chmod 777 XSS-HUNTER.py requirements.txt
+chmod +x XSS-HUNTER.py
 python3 XSS-HUNTER.py --help 
 ```
 ## Usage
